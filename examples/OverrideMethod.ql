@@ -8,7 +8,6 @@
 
 import java
 
-// 知识点说明
 // Method 方法
 // hasName() 方法名
 // getDeclaringType() 声明方法

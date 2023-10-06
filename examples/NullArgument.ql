@@ -11,7 +11,6 @@
 
 import java
 
-// 知识点说明
 // MethodAccess 调用方法
 // Method 方法
 // getDeclaringType() 声明方法

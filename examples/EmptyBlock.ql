@@ -9,7 +9,6 @@
 
  import java
 
- // 知识点说明
  // BlockStmt 表示块表达式
  // getNumStmt() 表示块表达式内的表达式数量
  

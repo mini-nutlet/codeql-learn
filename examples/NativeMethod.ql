@@ -9,7 +9,6 @@
 
 import java
 
-// 知识点说明
 // Method 表示方法
 // isNative 表示native方法
 

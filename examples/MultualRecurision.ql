@@ -8,7 +8,6 @@
 
 import java
 
-// 知识点说明
 // Method 表示方法
 // exists 表示存在量词
 // getCaller() 表示获取调用者

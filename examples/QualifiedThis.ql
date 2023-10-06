@@ -9,7 +9,6 @@
 
 import java
 
-// 知识点说明
 // ThisAccess this 限定符
 // getQualifier() 表达式
 

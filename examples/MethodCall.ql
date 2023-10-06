@@ -8,7 +8,6 @@
 
 import java
 
-// 知识点说明
 // MethodAccess 可访问方法
 // Method 方法
 // hasName(name) 表示方法名

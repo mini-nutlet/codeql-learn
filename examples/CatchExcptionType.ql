@@ -11,7 +11,6 @@
 
 import java
 
-// 知识点说明：api解析
 // CatchClause 表示捕获块
 // getACaughtType() 表示捕获的类型
 // hasQualifiedName(package, type) package 表示包名，type 表示异常类型

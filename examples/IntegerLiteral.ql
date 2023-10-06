@@ -8,7 +8,6 @@
 
 import java
 
-// 知识点说明
 // IntegerListreal 表示整型字面量，即整型号常量
 // getIntValue 表示字面量的值
 
