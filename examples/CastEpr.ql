@@ -10,7 +10,6 @@
 
 import java
 
-// 知识点说明
 // CastExpr 表示类型表达式
 // getExpr() Expr 表示获取表达式
 // getType() 表示获取表达式类型

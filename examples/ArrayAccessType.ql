@@ -12,7 +12,6 @@
 
 import java
 
-// 知识点说明
 // ArrasyAcess 表示可被访问的数组
 // getIndexExpr() 表示获取获取下标的表达式
 // UnrayAssignExpr 表示一元数组表达式

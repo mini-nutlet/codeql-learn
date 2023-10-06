@@ -12,7 +12,6 @@
 
 import java
 
-// 知识点说明
 // IfStmt 表示表达式
 // getThen 表示获取 IF 表达式 else 分支
 // .(BlockStmt) 表示类型转换

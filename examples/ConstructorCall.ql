@@ -9,7 +9,6 @@
 
 import java
 
-// 知识点说明
 // ClassInstanceExpr 表示类实例表达式 new xxx
 // getConstructedType() 表示构造函数类型
 // hasQualifiedName(package, type) 表示拥有 package 的 type 包名和类名
